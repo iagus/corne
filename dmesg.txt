@@ -1,0 +1,11 @@
+[ 1306.329110] usb 1-2: new full-speed USB device number 8 using xhci_hcd
+[ 1306.453475] usb 1-2: New USB device found, idVendor=4653, idProduct=0004, bcdDevice= 4.10
+[ 1306.453484] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[ 1306.453487] usb 1-2: Product: Corne v4
+[ 1306.453489] usb 1-2: Manufacturer: foostan
+[ 1306.453491] usb 1-2: SerialNumber: vial:f64c2b3c
+[ 1306.456847] input: foostan Corne v4 Keyboard as /devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.0/0003:4653:0004.0006/input/input16
+[ 1306.523637] input: foostan Corne v4 Mouse as /devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.0/0003:4653:0004.0006/input/input17
+[ 1306.524203] hid-generic 0003:4653:0004.0006: input,hidraw1: USB HID v1.11 Keyboard [foostan Corne v4] on usb-0000:00:14.0-2/input0
+[ 1306.526562] hid-generic 0003:4653:0004.0007: hiddev98,hidraw2: USB HID v1.11 Device [foostan Corne v4] on usb-0000:00:14.0-2/input1
+

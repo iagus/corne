@@ -1,0 +1,3 @@
+udevadm info -a -n /dev/hidraw4 | grep -E 'idVendor|idProduct|serial'
+ls -l /dev/hidraw4
+loginctl
