@@ -1,5 +1,7 @@
 ### Yay, my Corne!
 
+(Very much still wip)
+
 For ergonomics, meaning physical therapist telling me my shoulders, upper
 back, and jawbone are definitely not happy with my posture (deep sigh). So...
 
@@ -13,5 +15,10 @@ back, and jawbone are definitely not happy with my posture (deep sigh). So...
 #### To-do
 
 - Split numbers and symbols
-- Generating a layer map would be neat
+
+#### Keymaps
+
+Layers 2 and 3 are mess so I'm not including them for now. 
+
+![Keymap Diagram](corne.png)
 
