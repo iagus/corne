@@ -85,8 +85,8 @@ layers:
     - null
     - null
     - null
-    - null
-    - null
+    - "("
+    - ")"
     - null
     - null
     - QK_REBOOT
@@ -98,4 +98,5 @@ layers:
     - LCtrl
 combos:
   - {"p":[23,24],"k":"Esc","l":["L0"]}
+
 
